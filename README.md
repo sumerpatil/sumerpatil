@@ -24,7 +24,7 @@
 - Analyzed 3,000+ quiz responses using Python for pattern detection  
 - Built SQL + R data pipelines reducing report generation time by 80%  
 
-**Data Analyst Intern @ Bombay Stock Exchange**  
+**Data Analyst @ Bombay Stock Exchange**  
 - Developed ML models forecasting volatility with 22% higher accuracy  
 - Created Power BI dashboards cutting reporting time by 25%  
 
